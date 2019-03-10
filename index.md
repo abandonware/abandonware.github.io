@@ -17,10 +17,11 @@ Then to request transfer please file a bug in this project:
 * https://github.com/abandonware/abandonware.github.io/issues
 
 
-## ADOPT: ##
+## MAINTAIN: ##
 
-As I said, elsewhere as creator of @abandonware org, I am open to co maintainership,
-but it's hard to trust everyone, specially when taking over orphan packages. So I don't want to put users under any risk.
+As I said, elsewhere as creator of @abandonware org, I am open to co-maintainership,
+but it's hard to trust everyone, specially when taking over orphan packages.
+So I don't want to put users under any risk.
 
 In short term, I propose this rule:
 
@@ -40,6 +41,12 @@ I am open to suggestions.
 Tracking changes is also welcome, ask me how if unsure:
 
 * https://social.samsunginter.net/@rzr/101640930444343920
+
+
+## ADOPT: ##
+
+Abandonware org can be seen as orphanage, it's preferable to find new parents for projects staging in this area,
+but to avoid any malicious threat, intend to adopt should be justified in an issue in downstream project.
 
 
 ## RESOURCES: ##
