@@ -1,54 +1,57 @@
-URL: https://abandonware.github.io/
-
 ## ABOUT: ##
 
-This organisation aims to provide community co maintenance of orphan projects.
+This organisation aims to provide community co-maintenance of orphan projects.
 
 ## ABANDON: ##
 
-If project is no more active, please ask upstream to update about status of project maintance:
+If a project is no longer active, please ask the upstream project for an update
+about the status of project maintenance:
 
 Example:
 
-* https://github.com/kelly/node-i2c/issues/94
+* <https://github.com/kelly/node-i2c/issues/94>
 
-Then to request transfer please file a bug in this project:
+Then, to request a transfer, please file an issue in this project:
 
-* https://github.com/abandonware/abandonware.github.io/issues
+* <https://github.com/abandonware/abandonware.github.io/issues>
 
 
 ## MAINTAIN: ##
 
-As I said, elsewhere as creator of @abandonware org, I am open to co-maintainership,
-but it's hard to trust everyone, specially when taking over orphan packages.
-So I don't want to put users under any risk.
+As the creator of the @abandonware organization, I am open to co-maintainership.
+However, it's hard to trust everyone, especially when taking over orphaned
+packages. I don't want to put users at risk.
 
-In short term, I propose this rule:
+In the short term, I propose this rule:
 
-Any developer can apply but he should already has committed to an opensource organisation that he will behave nicely (to not intentionally commit malicious code), An explicit proof of commitment should be provided too.
+Any developers can apply, but they should have already committed to another open
+source organisation that they will behave nicely, i.e. not intentionally commit
+malicious code. An explicit proof of commitment should be provided, as well.
 
 Example:
 
-* https://github.com/abandonware/noble/pull/10
+* <https://github.com/abandonware/noble/pull/10>
 
 Related links:
 
-* https://www.debian.org/code_of_conduct
-* https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Signing_the_Ubuntu_Code_Of_Conduct
+* <https://www.debian.org/code_of_conduct>
+* <https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Signing_the_Ubuntu_Code_Of_Conduct>
 
 I am open to suggestions.
 
 Tracking changes is also welcome, ask me how if unsure:
 
-* https://social.samsunginter.net/@rzr/101640930444343920
+* <https://social.samsunginter.net/@rzr/101640930444343920>
 
 
 ## ADOPT: ##
 
-Abandonware org can be seen as orphanage, it's preferable to find new parents for projects staging in this area,
-but to avoid any malicious threat, intend to adopt should be justified in an issue in downstream project.
+The @abandonware organization can be seen as an orphanage. It's preferable to
+find new parents for projects staging in this area, but to avoid any malicious
+threats, intent to adopt should be justified in an issue in the downstream
+project.
 
 
 ## RESOURCES: ##
 
-* https://github.com/abandonware/noble/issues/9
+* <https://github.com/abandonware/noble/issues/9>
