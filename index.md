@@ -2,6 +2,9 @@
 
 This organisation aims to provide community co-maintenance of orphan projects.
 
+[![Presentation](https://image.slidesharecdn.com/up-down-stream-flows-20190411rzr-190415140110/95/updownstreamflows20190411rzr-16-638.jpg#)](https://www.slideshare.net/rzrfreefr/updownstreamflows20190411rzr# "Presentation")
+
+
 ## ABANDON: ##
 
 If a project is no longer active, please ask the upstream project for an update
@@ -14,6 +17,13 @@ Example:
 Then, to request a transfer, please file an issue in this project:
 
 * <https://github.com/abandonware/abandonware.github.io/issues>
+
+Example:
+
+* <https://github.com/abandonware/abandonware.github.io/issues/2>
+
+Then user should be added to team to transfer repository to this page,
+(user's URL will be preserved, but redirected to new location).
 
 
 ## MAINTAIN: ##
