@@ -12,7 +12,7 @@ about the status of project maintenance:
 
 Example:
 
-* <https://github.com/kelly/node-i2c/issues/94>
+* <https://github.com/noble/node-bluetooth-hci-socket/issues/123>
 
 Then, to request a transfer, please file an issue in this project:
 
