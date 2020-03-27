@@ -1,32 +1,41 @@
-## ABOUT: ##
+# GitAbandonWare #
 
-This organisation aims to provide community co-maintenance of orphan projects.
+## ABOUT ##
 
-[![Presentation](https://image.slidesharecdn.com/up-down-stream-flows-20190411rzr-190415140110/95/updownstreamflows20190411rzr-16-638.jpg#)](https://www.slideshare.net/rzrfreefr/updownstreamflows20190411rzr# "Presentation")
+This organization aims to provide community co-maintenance of orphan projects.
 
+[![Video](
+https://repository-images.githubusercontent.com/174828764/eda49380-704d-11ea-952f-220b5a3a56c8#./file/GitAbandonWare.png
+#)](
+https://peertube.mastodon.host/videos/watch/868d1310-0a7f-4134-ae1b-89587925d056#GitAbandonWare
+"Video"
+)
 
-## ABANDON: ##
+Slides:
+
+- <https://purl.org/rzr/presentations>
+
+## ABANDON ##
 
 If a project is no longer active, please ask the upstream project for an update
 about the status of project maintenance:
 
 Example:
 
-* <https://github.com/noble/node-bluetooth-hci-socket/issues/123>
+- <https://github.com/noble/node-bluetooth-hci-socket/issues/123>
 
 Then, to request a transfer, please file an issue in this project:
 
-* <https://github.com/abandonware/abandonware.github.io/issues>
+- <https://github.com/abandonware/abandonware.github.io/issues>
 
 Example:
 
-* <https://github.com/abandonware/abandonware.github.io/issues/2>
+- <https://github.com/abandonware/abandonware.github.io/issues/2>
 
 Then user should be added to team to transfer repository to this page,
 (user's URL will be preserved, but redirected to new location).
 
-
-## MAINTAIN: ##
+## MAINTAIN ##
 
 As the creator of the @abandonware organization, I am open to co-maintainership.
 However, it's hard to trust everyone, especially when taking over orphaned
@@ -40,29 +49,34 @@ malicious code. An explicit proof of commitment should be provided, as well.
 
 Example:
 
-* <https://github.com/abandonware/noble/pull/10>
+- <https://github.com/abandonware/noble/pull/10>
 
 Related links:
 
-* <https://www.debian.org/code_of_conduct>
-* <https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Signing_the_Ubuntu_Code_Of_Conduct>
+- <https://www.debian.org/code_of_conduct>
+- <https://help.ubuntu.com/community/GnuPrivacyGuardHowto#Signing_the_Ubuntu_Code_Of_Conduct>
 
 I am open to suggestions.
 
 Tracking changes is also welcome, ask me how if unsure:
 
-* <https://social.samsunginter.net/@rzr/101640930444343920>
+- <https://social.samsunginter.net/@rzr/101640930444343920>
 
-
-## ADOPT: ##
+## ADOPT ##
 
 The @abandonware organization can be seen as an orphanage. It's preferable to
 find new parents for projects staging in this area, but to avoid any malicious
 threats, intent to adopt should be justified in an issue in the downstream
 project.
 
+## RESOURCES ##
 
-## RESOURCES: ##
+- <https://github.com/abandonware/noble/issues/9>
+- <https://gitlab.com/abandonware>
 
-* <https://github.com/abandonware/noble/issues/9>
-* <https://gitlab.com/abandonware>
+[![Presentation](
+https://image.slidesharecdn.com/up-down-stream-flows-20190411rzr-190415140110/95/updownstreamflows20190411rzr-16-638.jpg
+#)](
+https://www.slideshare.net/rzrfreefr/updownstreamflows20190411rzr#
+"Presentation")
+
